@@ -1,0 +1,39 @@
+name: sphinx
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - cookiecutter
+  - jupyterlab
+  - ipython
+  - click
+  - rich-click
+  - pydantic
+  - pandas
+  - matplotlib
+  - seaborn
+  - graphviz
+  - setuptools
+  - sparse
+  # documentation
+  - nbsphinx
+  - pandoc
+  - ipykernel
+  - sphinx-autosummary-accessors
+  - sphinx-book-theme >= 0.0.38
+  - sphinx-copybutton
+  - sphinx-panels
+  - sphinx!=4.4.0
+  - jinja2<3.1
+  - pip
+  - pip:
+      - toml
+      - colorlog
+      - humanize
+      - sphinxext-rediraffe
+      - sphinxext-opengraph
+      - sphinx-autobuild
+      - sphinx-click
+      - devtools[pygments]

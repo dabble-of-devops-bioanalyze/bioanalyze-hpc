@@ -1,0 +1,13 @@
+
+# Outline
+
+[//]: # (Can it do genomics pipelines/singlecell/hcs/proteinfolding/etc?)
+
+* General Overview
+* Getting Started
+* Features
+* Analysis Based Documentation
+  * Cellpainting
+  * Genomics
+  * Single Cell
+  * Alphafold 
