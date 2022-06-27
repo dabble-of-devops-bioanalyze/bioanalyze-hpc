@@ -1,2 +1,3 @@
-# bioanalyze-hpc
-# bioanalyze-hpc
+# BioAnalyze HPC
+
+Check out the [docs](http://hpc.bioanalyze.io/) 
